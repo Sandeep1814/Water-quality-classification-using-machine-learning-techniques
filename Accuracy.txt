@@ -1,0 +1,6 @@
+Water Quality Classification Using SVM And XGBoost Method.
+
+Algorithm / Model Used: Gradient Boosting Classifier.
+
+Train Accuracy: 0.98.
+Test Accuracy: 0.94.
